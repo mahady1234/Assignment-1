@@ -1,6 +1,6 @@
 .bg {
     background-image: url(./Assets/Hero-bg.png);
-    width: 1440px;
+    width: 1470px;
     height: 698px;
 }
 
@@ -13,9 +13,164 @@
 .logo {
     color: #4E47FF;
     font-size: 34px;
+    font-weight: bold;
+    font-family: 'Inter', 'Open Sans', Arial, sans-serif;
+    padding-left: 150px;
+    width: 99px;
+    height: 51px;
 
 }
 
 .button {
-    background-color: #4E47FF
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+}
+
+.header-description {
+    font-size: 65px;
+    font-weight: bold;
+    padding-top: 158px;
+    padding-left: 267.5;
+    padding-right: 267.5;
+    color: #252432;
+    font-family: 'Raleway', Arial, sans-serif;
+    text-align: center;
+}
+
+.header-button-2 {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+
+}
+
+.nd-button {
+    padding-left: 633px;
+    padding-top: 37px;
+    padding-right: 633px;
+    width: 174px;
+    height: 48px;
+}
+
+.action {
+    display: flex;
+    gap: 220px;
+    padding-top: 116px;
+    padding-left: 141px;
+    padding-right: 159px;
+    padding-bottom: 116px;
+}
+
+.action-title {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    font-family: 'Raleway', Arial, sans-serif;
+    padding-top: 62.5px;
+}
+
+.action-description {
+    color: #252432;
+    font-size: 24px;
+    font-family: 'Raleway', Arial, sans-serif;
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+
+.action-button {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+}
+
+.action-button-main {
+    width: 229px;
+    height: 48px;
+}
+
+.action-img {
+    border-radius: 48px;
+}
+
+.user {
+    border-radius: 24px;
+    background-color: #c4c4f87b;
+
+    margin-top: 116px;
+    margin-right: 141px;
+    margin-left: 180px;
+    margin-bottom: 137px;
+    width: 1100px;
+    height: 300px;
+}
+
+.user-title {
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.user-first {
+    display: flex;
+    gap: 158px;
+    padding-top: 40px;
+
+    justify-content: center;
+
+
+}
+
+.user-secoend {
+    display: flex;
+    gap: 188px;
+    justify-content: center;
+
+
+
+}
+
+
+.user-11 {
+    font-size: 80px;
+    font-family: 'Inter',
+        'Open Sans',
+        Arial,
+        sans-serif;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+
+
+}
+
+.user-a {
+    color: #8b8888;
+    font-size: 20px;
+    font-family: 'Inter',
+        'Open Sans',
+        Arial,
+        sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+
 }
